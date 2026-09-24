@@ -1,0 +1,13 @@
+Total Sales: £5,983,894
+Total Profit: £222,951
+Overall Margin: 3.7%
+Average Order Value: £920.60
+Unique Customers: 1482
+Total Orders: 6500
+Top Region by Sales: East
+Top Category by Sales: Technology
+Best Segment by Sales: Consumer
+Loss-making sub-categories: 
+Forecast next 3 months sales: ['£310,229', '£315,101', '£319,973']
+Profit Model MAE: £80.41
+Profit Model R2: 0.317
